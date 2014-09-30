@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9CC21C19-253D-45E2-BC7E-8B1915C0CE33}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCover.Domain.Test", "OpenCover.Domain.Test\OpenCover.Domain.Test.csproj", "{DD562694-A0D7-4043-94EB-32A2774B66F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCover.Exemplo.Domain", "OpenCover.Exemplo.Domain\OpenCover.Exemplo.Domain.csproj", "{08187EB0-3FEB-4222-B917-9AA70F130E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD562694-A0D7-4043-94EB-32A2774B66F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD562694-A0D7-4043-94EB-32A2774B66F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD562694-A0D7-4043-94EB-32A2774B66F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD562694-A0D7-4043-94EB-32A2774B66F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08187EB0-3FEB-4222-B917-9AA70F130E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08187EB0-3FEB-4222-B917-9AA70F130E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08187EB0-3FEB-4222-B917-9AA70F130E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08187EB0-3FEB-4222-B917-9AA70F130E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

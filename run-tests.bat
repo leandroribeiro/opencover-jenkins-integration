@@ -1,0 +1,1 @@
+packages\NUnit.Runners.2.6.3\tools\nunit-console.exe E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\OpenCover.Domain.Test.dll /noshadow

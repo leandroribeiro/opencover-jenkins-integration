@@ -1,0 +1,9 @@
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\OpenCover.Domain.Test.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\OpenCover.Domain.Test.pdb
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\nunit.framework.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\OpenCover.Exemplo.Domain.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\OpenCover.Exemplo.Domain.pdb
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Release\nunit.framework.xml
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\obj\Release\OpenCover.Domain.Test.csprojResolveAssemblyReference.cache
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\obj\Release\OpenCover.Domain.Test.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\obj\Release\OpenCover.Domain.Test.pdb

@@ -1,0 +1,4 @@
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Exemplo.Domain\bin\Release\OpenCover.Exemplo.Domain.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Exemplo.Domain\bin\Release\OpenCover.Exemplo.Domain.pdb
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Exemplo.Domain\obj\Release\OpenCover.Exemplo.Domain.dll
+E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Exemplo.Domain\obj\Release\OpenCover.Exemplo.Domain.pdb

@@ -1,0 +1,3 @@
+Referencia:
+
+http://www.codeproject.com/Articles/677691/Getting-code-coverage-from-your-NET-testing-using

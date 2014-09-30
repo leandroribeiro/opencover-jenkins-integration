@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\OpenCover.Domain.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-09-30" time="15:55:13">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\PROJETOS\LABORATORIO\OpenCover" machine-name="LD-LEANDRO" user="leandro" user-domain="LCDINTERNO" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\OpenCover.Domain.Test.dll" executed="True" result="Success" success="True" time="0.122" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="OpenCover" executed="True" result="Success" success="True" time="0.106" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Domain" executed="True" result="Success" success="True" time="0.106" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.105" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="TargetTest" executed="True" result="Success" success="True" time="0.103" asserts="0">
+                    <results>
+                      <test-case name="OpenCover.Domain.Test.TargetTest.DoSomethingTest" executed="True" result="Success" success="True" time="0.074" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

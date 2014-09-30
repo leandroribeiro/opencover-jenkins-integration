@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="12" visitedSequencePoints="8" numBranchPoints="2" visitedBranchPoints="2" sequenceCoverage="66.67" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="7F-8A-5C-18-0A-45-30-6A-3E-B1-A1-38-B6-98-A2-0A-15-68-EE-E9">
+      <FullName>C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F9-04-A8-31-CD-FB-23-72-95-63-5D-14-9A-A0-66-8E-7F-44-93-7A">
+      <FullName>C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F9-CA-B6-79-63-CB-31-8A-0D-DC-C3-D0-43-F8-28-C3-F0-95-F9-E7">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\nunit-console.exe</FullName>
+      <ModuleName>nunit-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-30-2E-50-36-FB-60-2C-8E-50-C0-83-54-8B-CC-EA-A8-91-B6-CC">
+      <FullName>C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="75-A6-9F-EB-52-D2-A0-79-6F-57-92-69-23-D7-94-10-8D-52-E1-87">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_pt-BR_b77a5c561934e089\mscorlib.resources.dll</FullName>
+      <ModuleName>mscorlib.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CC-C8-07-83-AD-80-16-60-3B-FC-37-B6-78-30-CF-C7-32-AC-C6-C0">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="69-0E-4A-02-89-E1-1D-53-62-1F-8A-1D-1F-81-6B-83-17-F6-FF-21">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="03-B8-26-72-F6-7D-C3-14-3D-A8-A6-22-4D-27-5F-43-AE-2D-AF-52">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-03-BB-F1-FA-80-13-1C-F2-5C-75-50-C9-DD-6C-55-FD-1F-08-ED">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="77-8C-8A-77-F1-6A-5A-7B-65-E0-07-46-03-8D-73-D7-D1-60-BC-9F">
+      <FullName>C:\WINDOWS\assembly\GAC_MSIL\System.resources\2.0.0.0_pt-BR_b77a5c561934e089\System.resources.dll</FullName>
+      <ModuleName>System.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1C-14-EF-7D-5A-01-7B-5A-59-2C-0B-20-CA-15-5F-9F-6F-18-E5-6C">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="87-52-C5-B2-2F-D3-F5-4F-58-BF-89-4A-88-59-6D-CE-F4-7F-6A-3B">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\nunit-agent.exe</FullName>
+      <ModuleName>nunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="21-E2-EB-FD-9B-6D-26-76-9A-40-56-69-A8-1C-55-8F-65-3B-D6-32">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D8-A3-BA-D0-A4-E0-6F-EF-EE-9E-B8-EA-F0-06-1A-D5-74-49-90-17">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3B-FD-DC-EB-D9-C6-34-64-C7-D5-6A-D1-A0-04-93-80-2B-B0-C7-73">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F8-00-91-3A-34-92-9B-92-B4-65-C7-AB-F9-AE-03-B5-2F-91-83-E5">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="34-98-88-CE-6A-FC-39-9E-45-2D-FB-25-0F-36-96-E3-F6-3C-DD-84">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8F-00-DC-63-8A-AF-6D-6A-43-96-8B-20-0D-90-7F-C3-12-52-81-0E">
+      <FullName>C:\WINDOWS\assembly\GAC_64\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="21-E2-EB-FD-9B-6D-26-76-9A-40-56-69-A8-1C-55-8F-65-3B-D6-32">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="B6-96-0F-77-90-5D-5D-2F-9A-F2-9F-C4-E5-75-AD-9C-ED-57-F3-17">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\pnunit.framework.dll</FullName>
+      <ModuleName>pnunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="BF-1D-D7-35-9F-DE-AD-6C-C5-85-0E-59-71-C4-80-76-13-06-73-54">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\pnunit-agent.exe</FullName>
+      <ModuleName>pnunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="F8-D4-8C-80-E9-00-DA-EC-77-CA-24-67-C1-5F-5B-FF-D7-8A-8B-01">
+      <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\OpenCover.Domain.Test.dll</FullName>
+      <ModuleName>OpenCover.Domain.Test</ModuleName>
+      <Files>
+        <File uid="1" fullPath="e:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\TargetTests.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>OpenCover.Domain.Test.TargetTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void OpenCover.Domain.Test.TargetTest::DoSomethingTest()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="1" sl="17" sc="13" el="17" ec="34" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="7" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="1" ordinal="0" offset="0" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void OpenCover.Domain.Test.TargetTest::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="4" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="13-4C-94-D1-A1-A5-D9-8F-F1-E4-CE-A7-87-EF-CC-42-FC-6B-CA-BC">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\packages\NUnit.Runners.2.6.3\tools\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D8-A3-BA-D0-A4-E0-6F-EF-EE-9E-B8-EA-F0-06-1A-D5-74-49-90-17">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3B-FD-DC-EB-D9-C6-34-64-C7-D5-6A-D1-A0-04-93-80-2B-B0-C7-73">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F8-00-91-3A-34-92-9B-92-B4-65-C7-AB-F9-AE-03-B5-2F-91-83-E5">
+      <FullName>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="1F-77-FF-97-A5-C4-B0-07-B6-87-F7-B2-57-E9-CB-CF-38-B6-10-D7">
+      <Summary numSequencePoints="9" visitedSequencePoints="5" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="55.56" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+      <FullName>E:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Domain.Test\bin\Debug\OpenCover.Exemplo.Domain.dll</FullName>
+      <ModuleName>OpenCover.Exemplo.Domain</ModuleName>
+      <Files>
+        <File uid="3" fullPath="e:\PROJETOS\LABORATORIO\OpenCover\OpenCover.Exemplo.Domain\Target.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="9" visitedSequencePoints="5" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="55.56" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+          <FullName>OpenCover.Exemplo.Domain.Target</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="55.56" branchCoverage="100" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="5" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="55.56" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void OpenCover.Exemplo.Domain.Target::DoSomething()</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="5" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1" uspid="6" ordinal="1" offset="1" sl="14" sc="13" el="14" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1" uspid="7" ordinal="2" offset="2" sl="15" sc="17" el="15" ec="45" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1" uspid="8" ordinal="3" offset="13" sl="16" sc="13" el="16" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="9" ordinal="4" offset="16" sl="17" sc="13" el="17" ec="33" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="10" ordinal="5" offset="17" sl="18" sc="13" el="18" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="11" ordinal="6" offset="18" sl="19" sc="17" el="19" ec="47" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="0" uspid="12" ordinal="7" offset="30" sl="20" sc="13" el="20" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1" uspid="13" ordinal="8" offset="34" sl="21" sc="9" el="21" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="5" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void OpenCover.Exemplo.Domain.Target::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="14" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>
